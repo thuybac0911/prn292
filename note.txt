@@ -1,0 +1,6 @@
+-register +  login + logout account+ Khang
+=> login success => close form login
+-update account + search item- Bắc
+-shopping cart - checkout - Khải
+-add new + update item - Từ Minh Phương
+-delete item + check out - Lâm
